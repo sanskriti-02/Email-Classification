@@ -1,4 +1,4 @@
-# Latent-Semantic-Analysis-for-Email-Classification-and-Forensic-Investigation
+# Latent Semantic Analysis for Email Classification and Forensic Investigation
 In today's digital era, email communication has become an integral part of daily life, serving as a primary means of professional and personal correspondence. However, the rampant use of emails has also given rise to various security threats, making email classification a crucial task, particularly in the realm of email forensics. 
 
 This study delves into the imperative need for accurately classifying emails, emphasizing its significance in identifying malicious activities, such as phishing attempts, spam, fraudulent schemes, and harassment, thereby ensuring user security and privacy. Existing approaches to email classification encounter substantial challenges, such as the process being computationally expensive, time intensive, and class imbalances within datasets. This study addresses these limitations by proposing a comprehensive methodology. 
